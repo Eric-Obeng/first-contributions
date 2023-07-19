@@ -1,6 +1,7 @@
 # Contributors
 
 <!-- prettier-ignore-start and welcome -->
+- [Aman Kumar Nayak](https://github.com/amankumarnayak)
 - [Med Noor](https://github.com/mednoor890)
 - [Maciej Buračok](https://github.com/maciejburacok)
 - [DenisPilnik](https://github.com/DenisPilnik)
@@ -15,6 +16,7 @@
 - [Ketan Sahu](https://github.com/ketansahugit)
 - [Susmitha](https://github.com/susmitha0902)
 - [Shruti](https://github.com/Shruti3118)
+- [Andrii Kliuiko](https://github.com/andrUIko)
 - [J Jones](https://github.com/jjones40)
 - [Mas Muhammadun Zahid](https://github.com/masza1)
 - [Michael Hutchinson](https://github.com/Michael-Hutchinson)
@@ -4875,3 +4877,4 @@ Eln Far
 - [ak](https://github.com)
 <!-- prettier-ignore-end -->
 - [ng](https://github.com/joeng-ng)
+- [Isha Chauhan](https://github.com/izha135)
